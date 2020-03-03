@@ -1,1 +1,2 @@
 echo "hello time %time% : and date %date%"
+echo "I am in master branch"
