@@ -1,1 +1,0 @@
-each "hello time %time% : and date %date%"
